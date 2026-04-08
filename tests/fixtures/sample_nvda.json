@@ -1,0 +1,60 @@
+{
+  "snapshot": {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "market_cap": 3000000000000,
+    "current_price": 900.0,
+    "week52_high": 950.0,
+    "week52_low": 400.0,
+    "avg_volume_20d": 50000000
+  },
+  "price": {
+    "history": [],
+    "source": "fixture",
+    "fetched_at": "2026-04-09T16:00:00-04:00"
+  },
+  "fundamentals": {
+    "revenue_ttm": 100000000000,
+    "revenue_prior_ttm": 60000000000,
+    "revenue_3y_ago": 27000000000,
+    "gross_profit_ttm": 75000000000,
+    "operating_income_ttm": 60000000000,
+    "net_income_ttm": 50000000000,
+    "free_cash_flow_ttm": 47500000000,
+    "total_debt": 10000000000,
+    "cash_and_equivalents": 30000000000,
+    "ebitda_ttm": 65000000000,
+    "shares_outstanding": 2500000000,
+    "book_value": 50000000000,
+    "earnings_beat_streak": 4,
+    "source": "fixture",
+    "fetched_at": "2026-04-09T16:00:00-04:00"
+  },
+  "ownership": {
+    "institutional_pct": 0.68,
+    "institutional_pct_change_qoq": 0.015,
+    "insider_net_buying_90d": -250000000,
+    "source": "fixture",
+    "fetched_at": "2026-04-09T16:00:00-04:00"
+  },
+  "analyst": {
+    "consensus": "BUY",
+    "target_mean": 1050.0,
+    "target_high": 1300.0,
+    "target_low": 700.0,
+    "num_buy": 32,
+    "num_hold": 5,
+    "num_sell": 1,
+    "recent_revisions": [],
+    "source": "fixture",
+    "fetched_at": "2026-04-09T16:00:00-04:00"
+  },
+  "news": {
+    "items": [],
+    "source": "fixture",
+    "fetched_at": "2026-04-09T16:00:00-04:00"
+  },
+  "as_of": "2026-04-09T16:00:00-04:00"
+}
